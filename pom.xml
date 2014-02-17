@@ -137,6 +137,12 @@
 			</modules>
 		</profile>
 		<profile>
+			<id>STILL_FAILING</id>
+			<properties>
+				<android.plugin.version>3.8.3-SNAPSHOT</android.plugin.version>
+			</properties>
+		</profile>
+		<profile>
 			<id>FAIL</id>
 			<properties>
 				<android.plugin.version>3.8.2</android.plugin.version>
