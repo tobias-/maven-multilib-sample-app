@@ -18,7 +18,7 @@ It combines the following:
 ## Installation
 
 git clone the url at the top, i.e.
-```git clone maven-sample-app```
+```git clone https://github.com/tobias-/maven-multilib-sample-app```
 
 To get it working as smoothly as possible, I highly recommend cloning and installing
 https://github.com/mosabua/maven-android-sdk-deployer
